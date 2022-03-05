@@ -4,8 +4,8 @@
 2. `function()`: execute several lines of code with one `word()`.
 3. `(parameter=?)`: to **configure** the function's behaviour.
 4. `object`: **data structure** to store information.
-   a. `class`: to create the object
-   b. `instance`: once the object is created
+   a. `Class()`: to create the object
+   b. `instance.`: once the object is created
 
 ## Deduction
 
