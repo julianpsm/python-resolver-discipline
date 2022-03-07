@@ -1,13 +1,17 @@
 ## The Elements of Programming
 
-1. `module`: where the code of functions are stored.
-2. `function()`: execute several lines of code with one `word()`.
-3. `(parameter=?)`: to **configure** the function's behaviour.
-4. `object`: **data structure** to store information.
+This are the key concepts you need to know about `Python` ↓
+
+1. `module`: where the code of functions are stored
+2. `function()`: execute several lines of code with one `word()`
+3. `(parameter=?)`: to **configure** the function's behaviour
+4. `object`: **data structure** to store information
     1. `Class()`: to create the object
     2. `instance.`: once the object is created
 
 ## Deduction
+
+Look for a `function()` that gives you the `solution` ↓
 
 1. Identify the **problem/error**
    - [ ] Which `object` are you working with?
@@ -42,7 +46,7 @@ Apply the following steps when *looking for solutions in Google*:
 3. **Filter the Solution**
     - [ ] What's the `function()` that loads an Excel in Python?
     
-        - A Function to Programming is what the Atom to Phisics.
+        - A Function to Programming is **what the Atom to Phisics**.
         - Every time you want to do something in programming
         - *You will need a `function()`* to make it
         - Theferore, you must **detect parenthesis `()`**
