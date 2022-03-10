@@ -1,7 +1,7 @@
 ## The Elements of Programming
 
 ```python
-module.function(parameter=object)
+another = module.function(parameter=object)
 ```
 
 This are the key concepts you need to know about `Python` ↓
