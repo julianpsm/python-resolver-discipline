@@ -1,5 +1,9 @@
 ## The Elements of Programming
 
+```python
+another_object = module.function(parameter=object)
+```
+
 This are the key concepts you need to know about `Python` ↓
 
 1. `module`: where the code of functions are stored
@@ -13,10 +17,9 @@ This are the key concepts you need to know about `Python` ↓
 
 Look for a `function()` that gives you the `solution` ↓
 
-1. Identify the **problem/error**
-   - [ ] Which `object` are you working with?
-2. How the **solution** should look like?
-   - [ ] Sketch the `result` in a paper
+1. How the **solution** should look like?
+    - [ ] Sketch the `result` in a paper
+2. Which is your starting `object`?
 3. Look for the `function()` that may solve your problem
     1. Within the `instance.↹`
     2. Within the `module.↹`
@@ -29,26 +32,31 @@ Look for a `function()` that gives you the `solution` ↓
     3. **(Parameters=?)** to know the objects you may use
     4. **Return** to see what the function will output
     5. **Examples** with code snippets
-6. Which `object` should you pass to the `(parameters=?)`?
+5. Which `object` should you pass to the `(parameters=?)`?
 
 ## Google
 
 Apply the following steps when *looking for solutions in Google*:
 
-1. **Necesity**
-    - [ ] How to load an Excel in Python?
+1. What is the starting `object` you're working with?
 
-2. **Search in Google**
+    - [ ] **Object:** DataFrame
+
+2. What's the `verb` of the action you want?
+
+    - [ ] **Verb:** count
+
+3. What's the `result` you want?
+
+    - [ ] **Result:** number of repetitions in column
+
+4. `google` the question
+
     - [ ] Refrase the question by keywords
-        - ✅ load excel python
-        - ❌ ~~how to load excel in python~~
+        - ✅ dataframe count number of repetitions in column
+        - ❌ ~~how to count the number of repetitions in python?~~
 
-3. **Filter the Solution**
-    - [ ] What's the `function()` that loads an Excel in Python?
-    
-        - A Function to Programming is **what the Atom to Phisics**.
-        - Every time you want to do something in programming
-        - *You will need a `function()`* to make it
-        - Theferore, you must **detect parenthesis `()`**
-        - Out of all the words that you see in a website
-        - Because they indicate the presence of a `function()`
+5. **Filter the Solution**
+    1. Detect the `function()` that solves your problem
+    2. **Copy-paste** the code into Python
+    3. **Adapt the `parameters`** for your problem
