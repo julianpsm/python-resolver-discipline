@@ -18,13 +18,13 @@ Therefore, every single time you want to solve a problem, the **Python Resolver 
 
 - **What is the `function()` that solves this problem?**
 
-You will master 2 skills to reveal the `function()` you need:
+You will master 2 methods to reveal the `function()` you need:
 
-1. [Deduction](02_Work%20out%20Discipline/01_Deduction%20Methodology.md)
+1. [Deduction](02_Work%20out%20Discipline/01_Deduction%20Method.md)
 
     - You will deduce the solution by yourself, using standard English in a *jupyter notebook*.
 
-2. [Google](02_Work%20out%20Discipline/02_Google%20Methodology.md)
+2. [Google](02_Work%20out%20Discipline/02_Google%20Method.md)
 
     - You will know how to question in google to filter the best solutions in seconds.
 
