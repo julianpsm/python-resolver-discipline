@@ -1,4 +1,4 @@
-## Google Method
+# Google Method
 
 Apply the following steps when *looking for solutions in Google*:
 

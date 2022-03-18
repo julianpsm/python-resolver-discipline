@@ -1,4 +1,4 @@
-## Deduction Method
+# Deduction Method
 
 Look for a `function()` that gives you the `solution` ↓
 
@@ -11,14 +11,14 @@ Look for a `function()` that gives you the `solution` ↓
         - `df.↹`
     2. Within the `module.↹`
         - `pandas.↹`
-    3. [**Google**](02_Google Method.md) it
+    3. Google it, see [how ↗︎](<02_Google Method.md>)
     4. *Rethink the question* to solve the problem
-4. Apply `deduction` with the **autocompletion** to find the `function()`
+4. Apply **deduction with the autocompletion** to find the `function()`
 5. Ask Python `shift + ↹` *how to use the function*
-    1. **Signature:** for required parameters
-    2. **"""Docstring"""** to understand what the function does
-    3. **(Parameters=?)** to know the objects you may use
-    4. **Return** to see what the function will output
-    5. **Examples** with code snippets
+    1. <ins>Signature</ins>: for required parameters
+    2. """<ins>Docstring</ins>""" to understand what the function does
+    3. (<ins>Parameter</ins>=?): to know the objects you may use
+    4. <ins>Return</ins>: to see what the function will output
+    5. <ins>Examples</ins>: with code snippets
 5. Which `object` should you pass to the `(parameters=?)`?
 
