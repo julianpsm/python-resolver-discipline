@@ -11,8 +11,10 @@ Look for a `function()` that gives you the `solution` ↓
         - `df.↹`
     2. Within the `module.↹`
         - `pandas.↹`
-    3. Google it, see [how ↗︎](<02_Google Method.md>)
-    4. *Rethink the question* to solve the problem
+    3. Python [`Built-in` ↗︎](https://docs.python.org/3/library/functions.html)
+    4. Apply the [Google Method ↗︎](<02_Google Method.md>)
+    5. *Break up the solution* in smaller steps
+    6. Go back to step 1)
 4. Apply **deduction with the autocompletion** to find the `function()`
 5. Ask Python `shift + ↹` *how to use the function*
     1. <ins>Signature</ins>: for required parameters
